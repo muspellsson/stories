@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="9" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.0" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.99.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Wed Jun 10 11:49:21 2015
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">root</m>
+<m key="dc.date">Fri Jun  5 12:00:32 2015
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="20" edit-time="3147" last-saved="1433922561" uid="c87a6508-0b58-11e5-8d8a-cc1dd88f2691">
+<version id="15" started="1433491232" uid="94f66d56-0b5f-11e5-8d8a-cc1dd88f2691" auto="0" top-xid="6"/>
+<version id="20" started="1433922371" uid="34a1d14a-0f45-11e5-850a-da1ef9fd9d08" auto="0" top-xid="8"/>
+</history>
+<styles>
+<s type="P" name="Heading 1" basedon="Normal" followedby="Normal" props="font-size:17pt; margin-top:22pt; font-weight:bold; margin-bottom:3pt; font-family:DejaVu Sans; keep-with-next:1"/>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; bgcolor:transparent; widows:2; font-style:normal; text-indent:0in; text-position:normal; margin-bottom:0pt; font-weight:normal; line-height:1.0; text-align:left; font-variant:normal; text-decoration:none; margin-right:0pt; font-size:12pt; font-stretch:normal"/>
+<s type="P" name="Numbered Heading 2" basedon="Heading 2" followedby="Normal" props="list-delim:%L.; list-style:Numbered List; start-value:1; field-color:transparent; tabstops:0.3in/L0; margin-left:0.0in; text-indent:0.0in; field-font:DejaVu Sans"/>
+<s type="P" name="Heading 2" basedon="Normal" followedby="Normal" props="font-size:14pt; margin-top:22pt; font-weight:bold; margin-bottom:3pt; font-family:DejaVu Sans; keep-with-next:1"/>
+</styles>
+<lists>
+<l id="1002" parentid="0" type="0" start-value="1" list-delim="%L." list-decimal="."/>
+</lists>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section xid="5" props="page-margin-footer:0.5in; page-margin-header:0.5in">
+<p style="Heading 1" xid="6">Логик<c></c></p>
+<p level="1" listid="1002" parentid="0" style="Numbered Heading 2" xid="1" props="list-delim:%L.; start-value:1; text-indent:0.0000in; list-style:Numbered List; field-font:DejaVu Sans; margin-left:0.0000in"><c props="list-tag:1003"></c><field type="list_label" xid="3" props="width:0in; font-family:DejaVu Sans; display:inline; font-style:normal; font-weight:bold; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:14pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:DejaVu Sans; display:inline; font-style:normal; font-weight:bold; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:14pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	Призраки</c></p>
+<p style="Normal" xid="4"><c props="display:inline; lang:en-US; list-style:Numbered List; homogeneous:1; width:0in; height:0in; text-transform:none">	Он шел по узкой улочке между угрюмо нависающих над ним домов в поисках малейшего осколка солнечной теплоты среди повседневной сырости. Сырость была повсюду, она покрывала тонким, но неразрывным слоем стены, почву, тусклые оконные стекла, карнизы и подоконники. Иногда ему казалось, что сырая пленка покрывает даже само небо, с которого того и гляди начнет капать противными мутными каплями сконденсировавшаяся влага. Он провел пальцем по кирпичной кладке, оставив грязный продолговатый след. Ничего нового, все как и прежде. Так было час назад, неделю назад, год назад, так будет и через столетия после его смерти.</c><c props="display:inline; lang:en-US; list-style:Numbered List; homogeneous:1; width:0in; height:0in; text-transform:none"></c></p>
+<p style="Normal" xid="7"><c props="display:inline; lang:en-US; list-style:Numbered List; homogeneous:1; width:0in; height:0in; text-transform:none">	Улица постоянно петляла, уводила взбалмошные ноги в какую-то невероятную трясину, вытаскивала из нее, вела дальше и дальше к самой городской стене, за которой, хотелось бы ему верить, не было совершенно ничего, может быть, кроме нескольких голодных придуманных воробьев, рвущихся в город за лакомыми крошками отсыревшего зерна. К сожалению, за стеной все-таки что-то было, и это что-то ему предстояло рассмотреть вблизи, почувствовать всю его необъятную полноту, схватить всеми своими чувствами.</c><c props="display:inline; lang:en-US; list-style:Numbered List; homogeneous:1; width:0in; height:0in; text-transform:none"></c></p>
+<p style="Normal" xid="8"><c props="display:inline; lang:en-US; list-style:Numbered List; homogeneous:1; width:0in; height:0in; text-transform:none">	Красно-серые дома по бокам улицы стояли будто скрюченные напыщенные старики, пристально изучающие бегающего перед ними ребенка. Они вели друг с другом долгие скучные беседы на самые разные темы: о нравственности, о политике, о волшебстве и божественных чудесах, о светлом дне и темной ночи. Единственное, о чем они не говорили -- это сырость. Она была в их кругу самой желанной гостьей, которую лишний раз старались не обсуждать.</c></p>
+<p style="Normal" xid="9"><c props="display:inline; lang:en-US; list-style:Numbered List; homogeneous:1; width:0in; height:0in; text-transform:none">	Он шел уже достаточно долго, хотя его ноги, казалось, не знают усталости и готовы нести его еще целую жизнь.</c></p>
+</section>
+</abiword>
